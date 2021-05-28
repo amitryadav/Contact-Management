@@ -51,7 +51,8 @@ ContactMgtWeb -module
  3.create war for project using eclipse or commond line
  4.then you can depolye on server where you want
 
-Note-configuration you can change as required like db name username password etc for db related and as well change log4j path change as you want 
+Note-1.configuration you can change as required like db name username password etc for db related and as well change log4j path change as you want
+     2.for now i have put igonre for junit testing methods because dont want build issue on another system once you create db you can remove igonre and test the test cases using those method
  
 
              
